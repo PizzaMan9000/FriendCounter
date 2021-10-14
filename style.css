@@ -1,0 +1,26 @@
+body {
+    background-color: yellow;
+    font-family: sans-serif;
+}
+
+
+input {
+    margin:10px;
+    width:95%;
+    padding:10px;
+}
+
+#Sorting {
+    display:none;
+    margin-bottom:20px;
+    margin-top:20px;
+}
+
+div {
+    background-color:black;
+    width:500px;
+
+    align-items:center;
+    
+    color:white;
+}
